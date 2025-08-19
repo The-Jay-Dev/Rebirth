@@ -1,0 +1,24 @@
+module Rebirth
+typeinfo appRebirth.qmltypes
+prefer :/qt/qml/Rebirth/
+Main 1.0 Main.qml
+GameplayUI 1.0 GameplayUI.qml
+HitObject 1.0 HitObject.qml
+CustomFonts 1.0 CustomFonts.qml
+NotificationMessage 1.0 NotificationMessage.qml
+JudgementLine 1.0 JudgementLine.qml
+Trail 1.0 Trail.qml
+MapSelectMenu 1.0 MapSelectMenu.qml
+MapSelectSideMenu 1.0 MapSelectSideMenu.qml
+MapSelectSideMenuOptionBtn 1.0 MapSelectSideMenuOptionBtn.qml
+MapSelectTransition 1.0 MapSelectTransition.qml
+TitleScreen 1.0 TitleScreen.qml
+MapBackground 1.0 MapBackground.qml
+Results 1.0 Results.qml
+EmotionalCapacity 1.0 EmotionalCapacity.qml
+HoldNoteController 1.0 HoldNoteController.qml
+DoubleTapJudgementRing 1.0 DoubleTapJudgementRing.qml
+NoteShatterEffect 1.0 NoteShatterEffect.qml
+QmlSoundEffects 1.0 QmlSoundEffects.qml
+Stage 1.0 Stage.qml
+

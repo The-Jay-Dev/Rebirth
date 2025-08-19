@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Resources"/>
+    <qresource prefix="/">
+        <file>RebirthIcon.ico</file>
+    </qresource>
+</RCC>
