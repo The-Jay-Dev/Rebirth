@@ -1,4 +1,4 @@
-<img width="600" height="150" alt="RebirthReadMeBanner" src="https://github.com/user-attachments/assets/078b17bc-dd24-4bd9-a69e-49ec79843de6" />
+<img width="1024" height="150" alt="RebirthReadMeBanner" src="https://github.com/user-attachments/assets/8a2a4e0d-945c-4970-a1b5-672820fda030" />
 
 `Rebirth` is an experimental rhythm game built entirely with Qt and Miniaudio frameworks.  
 <br> 
