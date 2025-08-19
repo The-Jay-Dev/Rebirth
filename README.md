@@ -25,7 +25,7 @@ Below is the full list of possible game states as of v1.0:
 Rebirth is only available for Windows 64x, as I currently don't have the tools to port it to other systems, but there is a possibility of other ports in the future.
 
 # Installation
-The game works right out of the box. Head to releases and download the build, unzip the folder, and run `appRebirth.exe`
+The game works right out of the box. Head to releases and download the build, unzip the folder, and run `Rebirth.exe`
 
 # Other resources
 - Devlog
