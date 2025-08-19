@@ -1,0 +1,193 @@
+{
+    "title": "Time That Never Heals",
+    "artist": "Grand_Project",
+    "illustration": "Samer Daboul",
+    "audioFile": "Time_that_never_heals.wav",
+    "bpm": 140,
+    "beatOffset": 0,
+
+    "imageFileName": "pexels-samerdaboul-1209999.jpg",
+    "particleFileName": "ParticleBase.png",
+
+
+    "primaryColor": "#b2b42a",
+    "secondaryColor": "#b2b42a",
+    "highlightColor": "#e2e2e2",
+    "particleColor": "white",
+    "particleColorVariation": "0.1",
+    "imgDimPrimaryColor": "#282828",
+    "brightImgDimSecondaryColor": "#fffdcf",
+    "laneTheme": "rebirth",
+    "difficulty": 4,
+    "previewStartTime": 30,
+    "previewEndTime": 58,
+    "noteSpeed":5,
+
+
+"emotionalCapacity":[
+{
+    "Nostalgia": {
+        "notes": [
+    {"beat": 0.0, "lane": 1, "type": "tap"},
+    {"beat": 4.0, "lane": 2, "type": "tap"},
+    {"beat":8.0, "lane": 3, "type": "tap"},
+    {"beat":12, "lane": 4, "type": "tap"},
+    {"beat":16, "lane": 2, "type": "tap"},
+    {"beat":20, "lane": 3, "type": "tap"},
+    {"beat":24, "lane": 4, "type": "tap"},
+    {"beat":28, "lane": 1, "type": "tap"},
+
+
+    {"beat": 32, "lane": 1, "type": "hold", "duration": 2},
+    {"beat": 36, "lane": 3, "type": "hold", "duration": 2},
+    {"beat": 40, "lane": 2, "type": "hold", "duration": 2},
+    {"beat": 44, "lane": 4, "type": "hold", "duration": 2},
+
+    {"beat": 48, "lane": 4, "type": "hold", "duration": 2},
+    {"beat": 52, "lane": 3, "type": "hold", "duration": 2},
+    {"beat": 56, "lane": 2, "type": "hold", "duration": 2},
+    {"beat": 60, "lane": 1, "type": "hold", "duration": 2},
+    {"beat": 64, "lane": 3, "type": "hold", "duration": 3},
+    {"beat": 64, "lane": 2, "type": "hold", "duration": 3},
+
+    {"beat": 72.0, "lane": 3, "type": "tap"},
+    {"beat": 73.0, "lane": 4, "type": "tap"},
+    {"beat": 74.0, "lane": 3, "type": "tap"},
+    {"beat": 75.0, "lane": 4, "type": "tap"},
+    {"beat": 76.0, "lane": 3, "type": "tap"},
+    {"beat": 77.0, "lane": 4, "type": "tap"},
+    {"beat": 78.0, "lane": 3, "type": "tap"},
+    {"beat": 79.0, "lane": 4, "type": "tap"},
+
+
+    {"beat": 80.0, "lane": 1, "type": "tap"},
+    {"beat": 81.0, "lane": 2, "type": "tap"},
+    {"beat": 82.0, "lane": 1, "type": "tap"},
+    {"beat": 83.0, "lane": 2, "type": "tap"},
+    {"beat": 84.0, "lane": 1, "type": "tap"},
+    {"beat": 85.0, "lane": 2, "type": "tap"},
+    {"beat": 86.0, "lane": 1, "type": "tap"},
+    {"beat": 87.0, "lane": 2, "type": "tap"},
+
+    {"beat": 88.0, "lane": 3, "type": "tap"},
+    {"beat": 89.0, "lane": 4, "type": "tap"},
+    {"beat": 90.0, "lane": 3, "type": "tap"},
+    {"beat": 91.0, "lane": 4, "type": "tap"},
+    {"beat": 92.0, "lane": 3, "type": "tap"},
+    {"beat": 93.0, "lane": 4, "type": "tap"},
+    {"beat": 94.0, "lane": 3, "type": "tap"},
+    {"beat": 95.0, "lane": 4, "type": "tap"},
+
+    {"beat": 96.0, "lane": 1, "type": "tap"},
+    {"beat": 97.0, "lane": 2, "type": "tap"},
+    {"beat": 98.0, "lane": 1, "type": "tap"},
+    {"beat": 99.0, "lane": 2, "type": "tap"},
+    {"beat": 100.0, "lane": 1, "type": "tap"},
+    {"beat": 101.0, "lane": 2, "type": "tap"},
+    {"beat": 102.0, "lane": 1, "type": "tap"},
+    {"beat": 103.0, "lane": 2, "type": "tap"}
+        ]
+    }
+},
+    {"Euphoria":{
+    "notes":[
+    {"beat": 104.0, "lane": 3, "type": "doubleTap", "duration": 1},
+    {"beat": 106.0, "lane": 4, "type": "doubleTap", "duration": 1},
+    {"beat": 108.0, "lane": 2, "type": "doubleTap", "duration": 1},
+    {"beat": 110.0, "lane": 1, "type": "doubleTap", "duration": 1},
+
+    {"beat": 112.0, "lane": 2, "type": "doubleTap", "duration": 1},
+    {"beat": 114.0, "lane": 2, "type": "hold", "duration": 1},
+
+    {"beat": 116.0, "lane": 3, "type": "doubleTap", "duration": 1},
+    {"beat": 118.0, "lane": 3, "type": "hold", "duration": 1},
+
+    {"beat": 120.0, "lane": 3, "type": "doubleTap", "duration": 1},
+    {"beat": 122.0, "lane": 4, "type": "hold", "duration": 1},
+
+    {"beat": 124.0, "lane": 4, "type": "hold", "duration": 1},
+
+    {"beat": 126.0, "lane": 1, "type": "hold", "duration": 1},
+
+    {"beat": 128.0, "lane": 1, "type": "hold", "duration": 1},
+
+    {"beat": 130.0, "lane": 1, "type": "hold", "duration": 1},
+    {"beat": 132.0, "lane": 1, "type": "hold", "duration": 1}
+]
+}
+},
+    { "Paradox":{
+  "notes": [
+  {"beat": 136.0, "lane": 3, "type": "tap"},
+  {"beat": 137.0, "lane": 4, "type": "forgotten"},
+  {"beat": 138.0, "lane": 3, "type": "tap"},
+  {"beat": 139.0, "lane": 4, "type": "forgotten"},
+  {"beat": 140.0, "lane": 3, "type": "tap"},
+  {"beat": 141.0, "lane": 4, "type": "forgotten"},
+  {"beat": 142.0, "lane": 3, "type": "tap"},
+  {"beat": 143.0, "lane": 4, "type": "forgotten"},
+
+  {"beat": 144.0, "lane": 1, "type": "forgotten"},
+  {"beat": 145.0, "lane": 2, "type": "tap"},
+  {"beat": 146.0, "lane": 1, "type": "forgotten"},
+  {"beat": 147.0, "lane": 2, "type": "tap"},
+  {"beat": 148.0, "lane": 1, "type": "forgotten"},
+  {"beat": 149.0, "lane": 2, "type": "tap"},
+  {"beat": 150.0, "lane": 1, "type": "forgotten"},
+  {"beat": 151.0, "lane": 2, "type": "tap"},
+
+    {"beat": 152.0, "lane": 3, "type": "tap"},
+    {"beat": 152.5, "lane": 3, "type": "forgotten"},
+    {"beat": 153.0, "lane": 4, "type": "tap"},
+    {"beat": 153.5, "lane": 3, "type": "forgotten"},
+    {"beat": 154.0, "lane": 3, "type": "tap"},
+    {"beat": 154.5, "lane": 3, "type": "forgotten"},
+    {"beat": 155.0, "lane": 4, "type": "tap"},
+    {"beat": 155.5, "lane": 3, "type": "forgotten"},
+    {"beat": 156.0, "lane": 3, "type": "tap"},
+    {"beat": 156.5, "lane": 3, "type": "forgotten"},
+    {"beat": 157.0, "lane": 4, "type": "tap"},
+    {"beat": 157.5, "lane": 3, "type": "forgotten"},
+    {"beat": 158.0, "lane": 3, "type": "tap"},
+    {"beat": 158.5, "lane": 3, "type": "forgotten"},
+    {"beat": 159.0, "lane": 4, "type": "tap"},
+
+    {"beat": 160.0, "lane": 1, "type": "tap"},
+    {"beat": 161.0, "lane": 2, "type": "tap"},
+    {"beat": 162.0, "lane": 1, "type": "tap"},
+    {"beat": 163.0, "lane": 2, "type": "tap"},
+    {"beat": 164.0, "lane": 1, "type": "tap"},
+    {"beat": 165.0, "lane": 2, "type": "tap"},
+    {"beat": 166.0, "lane": 1, "type": "tap"},
+    {"beat": 167.0, "lane": 2, "type": "tap"},
+
+    {"beat": 170.0, "lane": 1, "type": "slide", "duration": 4, "tailLane": 4},
+    {"beat": 176.0, "lane": 4, "type": "slide", "duration": 6, "tailLane": 1},
+    {"beat": 184.0, "lane": 2, "type": "slide", "duration": 3, "tailLane": 3},
+    {"beat": 188.0, "lane": 4, "type": "slide", "duration": 3, "tailLane": 1},
+    {"beat": 192.0, "lane": 2, "type": "slide", "duration": 3, "tailLane": 3},
+    {"beat": 196.0, "lane": 4, "type": "doubleTap", "duration": 2}
+
+
+]
+}
+},
+    { "Bliss":{
+    "notes": [
+    {"beat": 200.0, "lane": 1, "type": "hold", "duration": 6},
+    {"beat": 200.0, "lane": 2, "type": "hold", "duration": 6},
+    {"beat": 208.0, "lane": 3, "type": "hold", "duration": 6},
+    {"beat": 208.0, "lane": 4, "type": "hold", "duration": 6},
+    {"beat": 216.0, "lane": 1, "type": "hold", "duration": 6},
+    {"beat": 216.0, "lane": 4, "type": "hold", "duration": 6},
+    {"beat": 224.0, "lane": 2, "type": "hold", "duration": 6},
+    {"beat": 224.0, "lane": 3, "type": "hold", "duration": 6}
+
+]}
+}
+]
+}
+
+
+
+

@@ -1,0 +1,303 @@
+{
+    "title": "Lost In Dreams",
+    "artist": "Kulakovka",
+    "audioFile": "Lost-in-dreams.wav",
+    "illustration": "Nathan Cowley",
+    "bpm": 132,
+    "beatOffset": 0.25,
+
+    "imageFileName": "pexels-mastercowley-1128797.jpg",
+    "particleFileName": "ParticleBase.png",
+
+
+    "primaryColor": "#b2b42a",
+    "secondaryColor": "#b2b42a",
+    "highlightColor": "#e2e2e2",
+    "particleColor": "white",
+    "particleColorVariation": "0.1",
+    "imgDimPrimaryColor": "#282828",
+    "brightImgDimSecondaryColor": "#fffdcf",
+    "laneTheme": "pure",
+    "difficulty": 6,
+    "previewStartTime": 63,
+    "previewEndTime": 109,
+    "noteSpeed": 3,
+
+
+"emotionalCapacity":[
+{
+    "Euphoria": {
+    "notes": [
+
+    {"beat": 0.0, "lane": 2, "type": "hold", "duration": 6},
+    {"beat": 0.0, "lane": 3, "type": "hold", "duration": 6},
+
+    {"beat": 8.0, "lane": 4, "type": "hold", "duration": 6},
+    {"beat": 8.0, "lane": 1, "type": "hold", "duration": 6},
+
+    {"beat": 16.0, "lane": 2, "type": "hold", "duration": 6},
+    {"beat": 16.0, "lane": 1, "type": "hold", "duration": 6},
+
+    {"beat": 24.0, "lane": 3, "type": "hold", "duration": 6},
+    {"beat": 24.0, "lane": 4, "type": "hold", "duration": 6},
+
+    {"beat": 32, "lane": 1, "type": "tap"},
+    {"beat": 33, "lane": 1, "type": "tap"},
+    {"beat": 34, "lane": 1, "type": "tap"},
+    {"beat": 35, "lane": 1, "type": "tap"},
+
+    {"beat": 36, "lane": 4, "type": "tap"},
+    {"beat": 37, "lane": 4, "type": "tap"},
+    {"beat": 38, "lane": 4, "type": "tap"},
+    {"beat": 39, "lane": 4, "type": "tap"},
+
+    {"beat": 40, "lane": 1, "type": "tap"},
+    {"beat": 41, "lane": 2, "type": "tap"},
+    {"beat": 42, "lane": 3, "type": "tap"},
+    {"beat": 43, "lane": 4, "type": "tap"},
+
+    {"beat": 44, "lane": 4, "type": "tap"},
+    {"beat": 45, "lane": 3, "type": "tap"},
+    {"beat": 46, "lane": 2, "type": "tap"},
+    {"beat": 47, "lane": 1, "type": "tap"},
+
+    {"beat": 48, "lane": 1, "type": "tap"},
+    {"beat": 49, "lane": 1, "type": "tap"},
+    {"beat": 50, "lane": 2, "type": "tap"},
+    {"beat": 51, "lane": 2, "type": "tap"},
+
+    {"beat": 52, "lane": 3, "type": "tap"},
+    {"beat": 53, "lane": 3, "type": "tap"},
+    {"beat": 54, "lane": 4, "type": "tap"},
+    {"beat": 55, "lane": 4, "type": "tap"},
+
+    {"beat": 56, "lane": 1, "type": "tap"},
+    {"beat": 57, "lane": 4, "type": "tap"},
+    {"beat": 58, "lane": 3, "type": "tap"},
+    {"beat": 59, "lane": 2, "type": "tap"},
+
+    {"beat": 60, "lane": 1, "type": "tap"},
+    {"beat": 61, "lane": 4, "type": "tap"},
+    {"beat": 62, "lane": 3, "type": "tap"},
+    {"beat": 63, "lane": 2, "type": "tap"},
+    {"beat": 64, "lane": 4, "type": "slide", "duration": 2, "tailLane":1},
+
+    {"beat": 68, "lane": 1, "type": "tap"},
+    {"beat": 68.5, "lane": 1, "type": "tap"},
+    {"beat": 69.5, "lane": 1, "type": "doubleTap", "duration": 0.3},
+
+    {"beat": 72, "lane": 3, "type": "tap"},
+    {"beat": 72.5, "lane": 3, "type": "tap"},
+    {"beat": 73.5, "lane": 3, "type": "doubleTap", "duration": 0.3},
+
+    {"beat": 76, "lane": 4, "type": "tap"},
+    {"beat": 76.5, "lane": 4, "type": "tap"},
+    {"beat": 77.5, "lane": 4, "type": "doubleTap", "duration": 0.3},
+
+    {"beat": 80, "lane": 3, "type": "tap"},
+    {"beat": 80.5, "lane": 3, "type": "tap"},
+    {"beat": 81.5, "lane": 3, "type": "doubleTap", "duration": 0.3},
+
+    {"beat": 84, "lane": 2, "type": "tap"},
+    {"beat": 84.5, "lane": 2, "type": "tap"},
+    {"beat": 85.5, "lane": 2, "type": "doubleTap", "duration": 0.3},
+
+    {"beat": 88, "lane": 1, "type": "tap"},
+    {"beat": 88.5, "lane": 2, "type": "tap"},
+    {"beat": 89.5, "lane": 3, "type": "doubleTap", "duration": 0.3},
+    {"beat": 89.5, "lane": 4, "type": "doubleTap", "duration": 0.3},
+
+    {"beat": 92, "lane": 4, "type": "tap"},
+    {"beat": 92.5, "lane": 3, "type": "tap"},
+    {"beat": 93.5, "lane": 2, "type": "doubleTap", "duration": 0.3},
+    {"beat": 93.5, "lane": 1, "type": "doubleTap", "duration": 0.3},
+
+    {"beat": 96, "lane": 4, "type": "tap"},
+    {"beat": 96.5, "lane": 3, "type": "tap"},
+    {"beat": 97.5, "lane": 4, "type": "doubleTap", "duration": 0.3},
+    {"beat": 97.5, "lane": 3, "type": "doubleTap", "duration": 0.3},
+    {"beat": 98.5, "lane": 3, "type": "slide", "duration": 0.3, "tailLane": 4},
+
+    {"beat": 100, "lane": 1, "type": "tap"},
+    {"beat": 100.5, "lane": 1, "type": "tap"},
+    {"beat": 101.5, "lane": 1, "type": "doubleTap", "duration": 0.3},
+
+
+    {"beat": 104, "lane": 3, "type": "tap"},
+    {"beat": 104.5, "lane": 3, "type": "tap"},
+    {"beat": 105.5, "lane": 3, "type": "doubleTap", "duration": 0.3},
+
+    {"beat": 108, "lane": 4, "type": "tap"},
+    {"beat": 108.5, "lane": 4, "type": "tap"},
+    {"beat": 109.5, "lane": 4, "type": "doubleTap", "duration": 0.3},
+
+    {"beat": 112, "lane": 3, "type": "tap"},
+    {"beat": 112.5, "lane": 3, "type": "tap"},
+    {"beat": 113.5, "lane": 3, "type": "doubleTap", "duration": 0.3},
+
+    {"beat": 116, "lane": 2, "type": "tap"},
+    {"beat": 116.5, "lane": 2, "type": "tap"},
+    {"beat": 117.5, "lane": 2, "type": "doubleTap", "duration": 0.3},
+
+    {"beat": 120, "lane": 1, "type": "tap"},
+    {"beat": 120.5, "lane": 2, "type": "tap"},
+    {"beat": 121.5, "lane": 3, "type": "doubleTap", "duration": 0.3},
+    {"beat": 121.5, "lane": 4, "type": "doubleTap", "duration": 0.3},
+
+    {"beat": 124, "lane": 4, "type": "tap"},
+    {"beat": 124.5, "lane": 3, "type": "tap"},
+    {"beat": 125.5, "lane": 2, "type": "doubleTap", "duration": 0.3},
+    {"beat": 125.5, "lane": 1, "type": "doubleTap", "duration": 0.3},
+
+    {"beat": 128, "lane": 4, "type": "tap"},
+    {"beat": 128.5, "lane": 3, "type": "tap"},
+    {"beat": 129.5, "lane": 4, "type": "doubleTap", "duration": 0.3},
+    {"beat": 129.5, "lane": 3, "type": "doubleTap", "duration": 0.3},
+    {"beat": 130.5, "lane": 3, "type": "slide", "duration": 0.3, "tailLane": 4}
+]
+}
+},
+
+    { "Fracture":{
+  "notes": [
+   {"beat": 132, "lane": 2, "type": "slide", "duration": 7, "tailLane": 4},
+       {"beat": 140, "lane": 4, "type": "tap"},
+       {"beat": 141, "lane": 4, "type": "tap"},
+       {"beat": 142, "lane": 3, "type": "tap"},
+       {"beat": 143, "lane": 3, "type": "tap"},
+       {"beat": 143.3, "lane": 2, "type": "tap"},
+
+       {"beat": 144, "lane": 1, "type": "tap"},
+       {"beat": 144.3, "lane": 1, "type": "tap"},
+
+       {"beat": 145, "lane": 2, "type": "tap"},
+       {"beat": 145.3, "lane": 2, "type": "tap"},
+
+       {"beat": 146, "lane": 3, "type": "tap"},
+       {"beat": 146.3, "lane": 3, "type": "tap"},
+
+       {"beat": 147, "lane": 4, "type": "tap"},
+       {"beat": 147.3, "lane": 4, "type": "tap"},
+
+    {"beat": 148, "lane": 1, "type": "tap"},
+    {"beat": 148.3, "lane": 1, "type": "tap"},
+
+    {"beat": 149, "lane": 2, "type": "tap"},
+    {"beat": 149.3, "lane": 2, "type": "tap"},
+
+    {"beat": 150, "lane": 3, "type": "tap"},
+    {"beat": 150.3, "lane": 3, "type": "tap"},
+
+    {"beat": 151, "lane": 4, "type": "tap"},
+    {"beat": 151.3, "lane": 3, "type": "tap"},
+
+    {"beat": 152, "lane": 1, "type": "tap"},
+    {"beat": 152.3, "lane": 2, "type": "tap"},
+
+    {"beat": 153, "lane": 3, "type": "tap"},
+    {"beat": 153.3, "lane": 4, "type": "tap"},
+
+    {"beat": 154, "lane": 4, "type": "tap"},
+    {"beat": 154.3, "lane": 4, "type": "tap"},
+
+    {"beat": 155, "lane": 3, "type": "tap"},
+    {"beat": 155.3, "lane": 3, "type": "tap"},
+
+    {"beat": 155.7, "lane": 1, "type": "tap"},
+    {"beat": 156.7, "lane": 2, "type": "tap"},
+    {"beat": 156.7, "lane": 3, "type": "tap"},
+    {"beat": 157.7, "lane": 3, "type": "tap"},
+    {"beat": 158.7, "lane": 2, "type": "tap"},
+
+    {"beat": 159.7, "lane": 1, "type": "tap"},
+    {"beat": 160.7, "lane": 2, "type": "tap"},
+    {"beat": 161.7, "lane": 3, "type": "tap"},
+    {"beat": 162.7, "lane": 4, "type": "tap"},
+    {"beat": 163, "lane": 4, "type": "tap"},
+
+    {"beat": 164, "lane": 4, "type": "hold", "duration": 6.7},
+    {"beat": 165, "lane": 3, "type": "doubleTap", "duration": 1},
+    {"beat": 168, "lane": 3, "type": "doubleTap", "duration": 2},
+    {"beat": 172, "lane": 1, "type": "hold", "duration": 6.7},
+    {"beat": 173, "lane": 2, "type": "doubleTap", "duration": 1},
+    {"beat": 176, "lane": 2, "type": "doubleTap", "duration": 2},
+
+    {"beat": 180, "lane": 4, "type": "hold", "duration": 6.7},
+    {"beat": 180, "lane": 1, "type": "hold", "duration": 6.7},
+    {"beat": 181, "lane": 3, "type": "doubleTap", "duration": 1},
+    {"beat": 184, "lane": 3, "type": "doubleTap", "duration": 2},
+    {"beat": 188, "lane": 2, "type": "hold", "duration": 6.7},
+    {"beat": 188, "lane": 3, "type": "hold", "duration": 6.7},
+    {"beat": 189, "lane": 4, "type": "doubleTap", "duration": 1},
+    {"beat": 193, "lane": 4, "type": "doubleTap", "duration": 1}
+]
+
+
+} },
+    { "Bliss":{
+    "notes": [
+    {"beat": 196, "lane": 3, "type": "slide", "duration": 7, "tailLane": 1},
+    {"beat": 204.0, "lane": 2, "type": "slide", "duration": 3, "tailLane": 3},
+    {"beat": 208.0, "lane": 4, "type": "slide", "duration": 2, "tailLane": 1},
+    {"beat": 212.0, "lane": 3, "type": "hold", "duration": 3},
+    {"beat": 212.0, "lane": 2, "type": "hold", "duration": 3},
+    {"beat": 216, "lane": 1, "type": "hold", "duration": 3},
+    {"beat": 216, "lane": 4, "type": "hold", "duration": 3},
+    {"beat": 220, "lane": 2, "type": "hold", "duration": 3},
+    {"beat": 224, "lane": 4, "type": "hold", "duration": 3}
+
+
+
+
+
+]} },
+    { "Nostalgia":{
+    "notes": [
+    {"beat": 228, "lane": 1, "type": "tap"},
+    {"beat": 229, "lane": 1, "type": "tap"},
+    {"beat": 230, "lane": 1, "type": "tap"},
+    {"beat": 231, "lane": 1, "type": "tap"},
+
+    {"beat": 232, "lane": 4, "type": "tap"},
+    {"beat": 233, "lane": 4, "type": "tap"},
+    {"beat": 234, "lane": 4, "type": "tap"},
+    {"beat": 235, "lane": 4, "type": "tap"},
+
+    {"beat": 236, "lane": 1, "type": "tap"},
+    {"beat": 237, "lane": 2, "type": "tap"},
+    {"beat": 238, "lane": 3, "type": "tap"},
+    {"beat": 239, "lane": 4, "type": "tap"},
+
+    {"beat": 240, "lane": 4, "type": "tap"},
+    {"beat": 241, "lane": 3, "type": "tap"},
+    {"beat": 242, "lane": 2, "type": "tap"},
+    {"beat": 243, "lane": 1, "type": "tap"},
+
+    {"beat": 244, "lane": 1, "type": "tap"},
+    {"beat": 245, "lane": 1, "type": "tap"},
+    {"beat": 246, "lane": 2, "type": "tap"},
+    {"beat": 247, "lane": 2, "type": "tap"},
+
+    {"beat": 248, "lane": 3, "type": "tap"},
+    {"beat": 249, "lane": 3, "type": "tap"},
+    {"beat": 250, "lane": 4, "type": "tap"},
+    {"beat": 251, "lane": 4, "type": "tap"},
+
+    {"beat": 252, "lane": 1, "type": "tap"},
+    {"beat": 253, "lane": 4, "type": "tap"},
+    {"beat": 254, "lane": 3, "type": "tap"},
+    {"beat": 255, "lane": 2, "type": "tap"},
+
+    {"beat": 256, "lane": 1, "type": "tap"},
+    {"beat": 257, "lane": 4, "type": "tap"},
+    {"beat": 258, "lane": 3, "type": "tap"},
+    {"beat": 259, "lane": 2, "type": "tap"},
+    {"beat": 260, "lane": 4, "type": "slide", "duration": 1, "tailLane":1}
+
+
+
+
+]}
+}
+    ]
+}

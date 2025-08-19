@@ -1,0 +1,237 @@
+{
+    "title": "Alone",
+    "artist": "BoDleasons",
+    "illustration": "Ylanite Koppens",
+    "audioFile": "Alone.wav",
+    "bpm": 150,
+    "beatOffset": 0,
+
+    "imageFileName": "pexels-nietjuhart-796605.jpg",
+    "particleFileName": "ParticleBase.png",
+
+
+    "primaryColor": "#b2b42a",
+    "secondaryColor": "#b2b42a",
+    "highlightColor": "#e2e2e2",
+    "particleColor": "white",
+    "particleColorVariation": "0.1",
+    "imgDimPrimaryColor": "#282828",
+    "brightImgDimSecondaryColor": "#fffdcf",
+    "laneTheme": "life",
+    "difficulty": 5,
+    "previewStartTime": 12,
+    "previewEndTime": 38,
+    "noteSpeed": 5,
+
+
+"emotionalCapacity":[
+{
+    "Euphoria": {
+        "notes": [
+    {"beat": 0.0, "lane": 2, "type": "tap"},
+    {"beat": 1.0, "lane": 3, "type": "tap"},
+    {"beat": 2.0, "lane":4, "type": "tap"},
+    {"beat":3.0, "lane": 3, "type": "tap"},
+
+    {"beat": 4.0, "lane": 1, "type": "tap"},
+    {"beat": 5.0, "lane": 2, "type": "tap"},
+    {"beat": 6.0, "lane": 3, "type": "tap"},
+    {"beat":7.0, "lane": 4, "type": "tap"},
+
+    {"beat": 8.0, "lane": 3, "type": "tap"},
+    {"beat": 9.0, "lane": 1, "type": "tap"},
+    {"beat":10.0, "lane": 1, "type": "tap"},
+    {"beat":11.0, "lane": 3, "type": "tap"},
+    {"beat":12.0, "lane": 4, "type": "tap"},
+    {"beat":13.0, "lane": 4, "type": "tap"},
+    {"beat":14.0, "lane": 4, "type": "tap"},
+    {"beat":15.0, "lane": 4, "type": "tap"},
+    {"beat":16.0, "lane": 4, "type": "tap"},
+
+    {"beat": 17.0, "lane": 3, "type": "tap"},
+    {"beat": 18.0, "lane": 4, "type": "tap"},
+    {"beat":19.0, "lane": 4, "type": "tap"},
+
+    {"beat": 20.0, "lane": 1, "type": "tap"},
+    {"beat": 21.0, "lane": 2, "type": "tap"},
+    {"beat": 22.0, "lane": 3, "type": "tap"},
+    {"beat": 23.0, "lane": 4, "type": "tap"}
+        ]
+    }
+},
+    { "Bliss":{
+  "notes": [
+  {"beat": 24.0, "lane": 4, "type": "hold", "duration": 3},
+  {"beat":28.0, "lane": 4, "type": "doubleTap", "duration": 2},
+
+  {"beat": 32.0, "lane": 2, "type": "hold", "duration": 2},
+  {"beat": 32.0, "lane": 3, "type": "hold", "duration": 2},
+
+  {"beat": 36.0, "lane": 3, "type": "hold", "duration": 2},
+  {"beat": 36.0, "lane": 4, "type": "hold", "duration": 2},
+
+  {"beat": 40.0, "lane": 1, "type": "hold", "duration": 2},
+  {"beat": 40.0, "lane": 4, "type": "hold", "duration": 2},
+
+  {"beat": 44.0, "lane": 1, "type": "hold", "duration": 2},
+  {"beat": 44.0, "lane": 2, "type": "hold", "duration": 2},
+
+  {"beat": 48.0, "lane": 2, "type": "hold", "duration": 2},
+  {"beat": 48.0, "lane": 4, "type": "hold", "duration": 2},
+
+  {"beat": 52.0, "lane": 3, "type": "hold", "duration": 2},
+  {"beat": 52.0, "lane": 1, "type": "hold", "duration": 2},
+
+  {"beat": 56.0, "lane": 4, "type": "hold", "duration": 2},
+  {"beat": 60.0, "lane": 1, "type": "hold", "duration": 2},
+
+  {"beat": 64.0, "lane":2, "type": "slide", "duration": 2, "tailLane":3},
+  {"beat": 68.0, "lane":3, "type": "slide", "duration": 2, "tailLane":2},
+  {"beat": 72.0, "lane":1, "type": "slide", "duration": 2, "tailLane":4},
+  {"beat": 76.0, "lane":4, "type": "slide", "duration": 2, "tailLane":1},
+
+  {"beat": 80.0, "lane": 2, "type": "hold", "duration": 2},
+  {"beat": 80.0, "lane": 3, "type": "hold", "duration": 2},
+  {"beat": 84.0, "lane": 1, "type": "hold", "duration": 2},
+  {"beat": 84.0, "lane": 3, "type": "hold", "duration": 2},
+
+ {"beat": 88.0, "lane":4, "type": "slide", "duration": 2, "tailLane":2},
+ {"beat": 92.0, "lane":4, "type": "slide", "duration": 2, "tailLane":1}
+]
+}
+},
+    { "Paradox":{
+    "notes": [
+    {"beat": 96.0, "lane": 3, "type": "tap"},
+    {"beat": 96.5, "lane": 3, "type": "forgotten"},
+    {"beat": 97.0, "lane": 4, "type": "tap"},
+    {"beat": 97.5, "lane": 3, "type": "forgotten"},
+    {"beat": 98.0, "lane": 3, "type": "tap"},
+    {"beat": 99.0, "lane": 4, "type": "tap"},
+    {"beat": 100.0, "lane": 2, "type": "tap"},
+    {"beat": 101.0, "lane": 2, "type": "tap"},
+    {"beat": 102.0, "lane": 2, "type": "tap"},
+    {"beat": 103.0, "lane": 2, "type": "tap"},
+    {"beat": 104.0, "lane": 4, "type": "tap"},
+    {"beat": 105.0, "lane": 4, "type": "tap"},
+    {"beat": 105.5, "lane": 3, "type": "forgotten"},
+    {"beat": 106.0, "lane": 4, "type": "tap"},
+    {"beat": 106.5, "lane": 3, "type": "forgotten"},
+    {"beat": 107.0, "lane": 3, "type": "tap"},
+    {"beat": 107.5, "lane": 3, "type": "forgotten"},
+    {"beat": 108.0, "lane": 1, "type": "tap"},
+    {"beat": 109.0, "lane": 1, "type": "tap"},
+    {"beat": 110.0, "lane": 1, "type": "tap"},
+    {"beat": 111.0, "lane": 1, "type": "tap"},
+    {"beat": 112.0, "lane": 2, "type": "tap"},
+    {"beat": 113.0, "lane": 3, "type": "tap"},
+    {"beat": 113.5, "lane": 3, "type": "forgotten"},
+    {"beat": 114.0, "lane": 2, "type": "tap"},
+    {"beat": 114.5, "lane": 3, "type": "forgotten"},
+    {"beat": 115.0, "lane": 3, "type": "tap"},
+    {"beat": 116.0, "lane": 4, "type": "tap"},
+    {"beat": 117.0, "lane": 4, "type": "tap"},
+    {"beat": 118.0, "lane": 4, "type": "tap"},
+    {"beat": 119.0, "lane": 4, "type": "tap"},
+    {"beat": 120.0, "lane": 3, "type": "tap"},
+    {"beat": 120.5, "lane": 3, "type": "forgotten"},
+    {"beat": 121.0, "lane": 2, "type": "tap"},
+    {"beat": 121.5, "lane": 1, "type": "forgotten"},
+    {"beat": 122.0, "lane": 1, "type": "tap"},
+    {"beat": 122.5, "lane": 2, "type": "forgotten"},
+    {"beat": 123.0, "lane": 4, "type": "tap"},
+    {"beat": 123.5, "lane": 4, "type": "forgotten"},
+    {"beat": 124.0, "lane": 3, "type": "tap"},
+    {"beat": 125.0, "lane": 3, "type": "tap"},
+    {"beat": 126.0, "lane": 3, "type": "tap"},
+    {"beat": 127.0, "lane": 3, "type": "tap"},
+    {"beat": 127.5, "lane": 2, "type": "forgotten"},
+    {"beat": 128.0, "lane": 2, "type": "doubleTap", "duration": 2},
+    {"beat": 131.5, "lane": 3, "type": "forgotten"},
+    {"beat": 132.0, "lane": 3, "type": "doubleTap", "duration": 2},
+    {"beat": 135.5, "lane": 4, "type": "forgotten"},
+    {"beat": 136.0, "lane": 4, "type": "doubleTap", "duration": 2},
+    {"beat": 139.5, "lane": 2, "type": "forgotten"},
+    {"beat": 140.0, "lane": 2, "type": "doubleTap", "duration": 2},
+    {"beat": 144.0, "lane": 3, "type": "tap"},
+    {"beat": 145.0, "lane": 3, "type": "tap"},
+    {"beat": 146.0, "lane": 3, "type": "tap"},
+    {"beat": 147.0, "lane": 3, "type": "tap"},
+    {"beat": 148.0, "lane": 3, "type": "tap"},
+    {"beat": 148.0, "lane": 4, "type": "tap"},
+    {"beat": 149.0, "lane": 3, "type": "tap"},
+    {"beat": 149.0, "lane": 4, "type": "tap"},
+    {"beat": 150.0, "lane": 3, "type": "tap"},
+    {"beat": 150.0, "lane": 4, "type": "tap"},
+    {"beat": 151.0, "lane": 3, "type": "tap"},
+    {"beat": 151.0, "lane": 4, "type": "tap"},
+
+    {"beat": 152.0, "lane": 3, "type": "hold", "duration": 3},
+    {"beat": 152.0, "lane": 4, "type": "hold", "duration": 3}
+]
+}
+},
+    { "Confusion":{
+    "notes": [
+    {"beat": 156.0, "lane": 4, "type": "slide", "duration": 3, "tailLane": 2},
+    {"beat":160.0, "lane": 3, "type": "doubleTap", "duration": 2},
+    {"beat":160.0, "lane": 2, "type": "doubleTap", "duration": 2},
+    {"beat": 164.0, "lane": 2, "type": "hold", "duration": 2},
+    {"beat": 164.0, "lane": 1, "type": "hold", "duration": 2},
+    {"beat": 166.5, "lane": 4, "type": "forgotten"},
+    {"beat": 167.0, "lane": 4, "type": "tap"},
+    {"beat": 168.0, "lane": 3, "type": "hold", "duration": 2},
+    {"beat": 168.0, "lane": 2, "type": "hold", "duration": 2},
+    {"beat": 171.0, "lane": 4, "type": "tap"},
+    {"beat": 172.0, "lane": 3, "type": "hold", "duration": 2},
+    {"beat": 172.0, "lane": 4, "type": "hold", "duration": 2},
+    {"beat": 175.5, "lane": 1, "type": "forgotten"},
+    {"beat": 175.5, "lane": 4, "type": "forgotten"},
+    {"beat": 176.0, "lane": 1, "type": "hold", "duration": 2},
+    {"beat": 176.0, "lane": 4, "type": "hold", "duration": 2},
+    {"beat": 179.5, "lane": 2, "type": "forgotten"},
+    {"beat": 179.5, "lane": 3, "type": "forgotten"},
+    {"beat": 180.0, "lane": 2, "type": "hold", "duration": 2},
+    {"beat": 180.0, "lane": 3, "type": "hold", "duration": 2},
+    {"beat": 183.5, "lane": 1, "type": "forgotten"},
+    {"beat": 183.5, "lane": 3, "type": "forgotten"},
+    {"beat": 184.0, "lane": 1, "type": "hold", "duration": 2},
+    {"beat": 184.0, "lane": 3, "type": "hold", "duration": 2},
+    {"beat": 188.0, "lane": 2, "type": "tap"},
+    {"beat": 188.0, "lane": 3, "type": "tap"},
+    {"beat": 189.5, "lane": 2, "type": "tap"},
+    {"beat": 189.5, "lane": 3, "type": "tap"},
+
+    {"beat":192.0, "lane": 3, "type": "doubleTap", "duration": 2},
+    {"beat":192.0, "lane": 2, "type": "doubleTap", "duration": 2},
+    {"beat": 196.0, "lane": 3, "type": "hold", "duration": 2},
+    {"beat": 196.0, "lane": 4, "type": "hold", "duration": 2},
+    {"beat": 199.5, "lane": 2, "type": "forgotten"},
+    {"beat": 200.0, "lane": 1, "type": "hold", "duration": 2},
+    {"beat": 200.0, "lane": 4, "type": "hold", "duration": 2},
+    {"beat": 203.0, "lane": 3, "type": "tap"},
+    {"beat": 204.0, "lane": 2, "type": "hold", "duration": 2},
+    {"beat": 204.0, "lane": 3, "type": "hold", "duration": 2},
+    {"beat": 207.5, "lane": 1, "type": "forgotten"},
+    {"beat": 207.5, "lane": 4, "type": "forgotten"},
+    {"beat": 208.0, "lane": 1, "type": "hold", "duration": 2},
+    {"beat": 208.0, "lane": 4, "type": "hold", "duration": 2},
+    {"beat": 211.5, "lane": 1, "type": "forgotten"},
+    {"beat": 211.5, "lane": 3, "type": "forgotten"},
+    {"beat": 212.0, "lane": 1, "type": "hold", "duration": 2},
+    {"beat": 212.0, "lane": 3, "type": "hold", "duration": 2},
+
+    {"beat": 215.5, "lane": 1, "type": "forgotten"},
+    {"beat": 215.5, "lane": 2, "type": "forgotten"},
+    {"beat": 216.0, "lane": 1, "type": "hold", "duration": 2},
+    {"beat": 216.0, "lane": 2, "type": "hold", "duration": 2},
+    {"beat": 220.0, "lane": 1, "type": "tap"},
+    {"beat": 220.0, "lane": 2, "type": "tap"},
+    {"beat":222.0, "lane": 1, "type": "doubleTap", "duration": 2},
+    {"beat":222.0, "lane": 2, "type": "doubleTap", "duration": 2}
+
+
+]}
+}
+    ]
+}

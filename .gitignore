@@ -1,0 +1,17 @@
+# Qt build artifacts
+build*/
+*.pro.user
+*.o
+*.obj
+*.dll
+*.exe
+*.qmlc
+*.jsc
+
+# Qt Creator clutter
+*.autosave
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

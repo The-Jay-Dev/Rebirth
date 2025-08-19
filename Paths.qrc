@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/SfxPaths">
+        <file>Sounds/RebirthHitsoundA.wav</file>
+        <file>Sounds/RebirthHitsoundAReverb.wav</file>
+        <file>Sounds/RebirthHitsoundTickA.wav</file>
+        <file>Sounds/RebirthUIsoundAConfirmed.wav</file>
+        <file>Sounds/RebirthUIsoundAPopupOpened.wav</file>
+        <file>Sounds/RebirthUIsoundASelect.wav</file>
+    </qresource>
+</RCC>
