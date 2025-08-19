@@ -30,7 +30,7 @@ The game works right out of the box. Head to releases and download the build, un
 # Tracks
 [BoDleasons - Alone](https://pixabay.com/music/future-bass-alone-296348/)  
 [Kulakovka - Lost In Dreams](https://pixabay.com/music/beats-lost-in-dreams-abstract-chill-downtempo-cinematic-future-beats-270241/)  
-[Grand_Project - Time That Never Heals](https://pixabay.com/music/future-bass-alone-296348/)  
+[Grand_Project - Time That Never Heals](https://pixabay.com/music/beats-time-that-never-heals-medium-2-379135/)  
 
 # Other resources
 - Devlog
