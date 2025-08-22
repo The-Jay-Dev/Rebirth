@@ -628,8 +628,9 @@ void NotePool::noteYPosition( QSharedPointer<HitObject> object, float validMs,fl
 {
     if(conductor){
         double hitBeatTime =  object->beat * conductor->secsPerBeat;
-        double spawnBeatTime = hitBeatTime - (beatsUntilHit * conductor->secsPerBeat);
-        double progress = (conductor->currentTime - spawnBeatTime)/(beatsUntilHit * conductor->secsPerBeat);
+        double descendTime = beatsUntilHit * conductor->secsPerBeat;
+        double spawnBeatTime = hitBeatTime - descendTime;
+        double progress = (conductor->currentTime - spawnBeatTime)/descendTime;
 
         if(!object->holdActivated)
         {
