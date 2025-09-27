@@ -34,7 +34,6 @@ The game works right out of the box. Head to releases and download the build, un
 
 # Other resources
 - Devlog
-- Webpage
 
 # Acknowledgements
 [@mackron](https://github.com/mackron) for in-depth miniaudio assistance.
