@@ -33,7 +33,8 @@ The game works right out of the box. Head to releases and download the build, un
 [Grand_Project - Time That Never Heals](https://pixabay.com/music/beats-time-that-never-heals-medium-2-379135/)  
 
 # Other resources
-- Devlog
+[Devlog](https://www.youtube.com/watch?v=OfbFoPY4MTo&t=6s)
+Rebirth page on my [portfolio](https://jaydevhq.com/projectRebirth) website
 
 # Acknowledgements
 [@mackron](https://github.com/mackron) for in-depth miniaudio assistance.
